@@ -6,9 +6,7 @@ nav {
 
 ul {
   
-   
 }
-
 
 ul li {
   list-style: none;
@@ -18,12 +16,16 @@ ul li {
   
 }
 
-
 ul li a {
   text-decoration: none;
   font-size: 18px;
   font-family: arial;
   color: #1e1e1e;
   padding: 0 20px;
+  
+}
+
+ul li a:hover {
+  color: green;
   
 }
