@@ -1,8 +1,7 @@
 
 nav {
   width: 100%;
-  height: 20px;
-  background-color: #eee;
+  height: 100px;
 }
 
 ul {
@@ -25,6 +24,6 @@ ul li a {
   font-size: 18px;
   font-family: arial;
   color: #1e1e1e;
-  padding: 0 100px;
+  padding: 0 20px;
   
 }
