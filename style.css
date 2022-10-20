@@ -15,6 +15,7 @@ ul li {
   list-style: none;
   display: inline-block;
   float: left;
+  line-height: 20px;
   
 }
 
@@ -24,5 +25,6 @@ ul li a {
   font-size: 14px;
   font-family: arial;
   color: #1e1e1e;
+  padding: 0 20px;
   
 }
